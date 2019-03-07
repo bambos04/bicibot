@@ -1,3 +1,3 @@
-# Telegram Echo Bot
+# Bot della chat telegram di Ball Don't Lie
 
-This is a sample Telegram Bot written in PHP running on Heroku
+Sempre se il bot di Fazz accetta l'ingresso di un'altra entità robotica
