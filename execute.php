@@ -19,11 +19,15 @@ header("Content-Type: application/json");
 $response = '';
 if(strpos($text, "/start") === 0 || stristr ( $text, "/command1" ) == true )
 {
-	$response = "response1";
+	$response = "Ciao Amici delle bici";
 }
-elseif( stristr ( $text, "/command2" ) == true )
+elseif( stristr ( $text, "/bici" ) == true )
 {
-	$response = "response2";
+	$response = "clette";
+}
+elseif( stristr ( $text, "/aa" ) == true )
+{
+	$response = "bb";
 }
 // altri comandi si aggiungono con altri elseif uguali a quello sopra.
 $parameters = array('chat_id' => $chatId, "text" => $response);
