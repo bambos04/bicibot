@@ -1,3 +1,3 @@
-# Bot della chat telegram di Ball Don't Lie
+# Bot della chat telegram delle biciclette
 
-Sempre se il bot di Fazz accetta l'ingresso di un'altra entità robotica
+:)
